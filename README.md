@@ -1,2 +1,2 @@
 # Discord-Bot-AI
-Bu bot hangi çevre kirliliğinin hangisi olduğunu Yapay Zeka ile ayırt edebiliyor
+Bu bot bir resmin hangi çevre kirliliğine ait olduğunu Yapay Zeka ile ayırt edebiliyor. Siz chate !foto_kontrol yazıp bir fotoğraf atıyorsunuz ve hangi çevre kirliliğine aitse bunu size söylüyor
