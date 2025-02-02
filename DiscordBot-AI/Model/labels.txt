@@ -1,0 +1,3 @@
+0 Hava Kirliliği
+1 Su Kirliliği
+2 Çevre Kirliliği
